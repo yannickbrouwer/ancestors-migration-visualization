@@ -5,4 +5,4 @@ You can watch a video of the animation here:
 https://youtu.be/tT4xw3nO1Yg
 
 For more details about the process have a look here:
-https://medium.com/p/7af6a2354db0/
+https://ybrouwer.medium.com/visualizing-my-ancestry-on-a-map-7af6a2354db0
