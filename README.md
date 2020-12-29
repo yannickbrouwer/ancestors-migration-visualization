@@ -1,5 +1,5 @@
 # ancestors-location-animation
-This is a Processing (processing.org) sketch that creates an animated data visualization of how my ancestors migrated over time on a map. It uses a CSV that I exported from MyHeritage and makes use of Till Nagels' library Unfolding Maps.
+This is a Processing (processing.org) sketch that creates an animated data visualization of how my ancestors migrated over time on a map. It uses a CSV that I exported from MyHeritage and it makes use of the library Unfolding Maps by Till Nagel.
 
 You can watch a video of the animation here:
 https://youtu.be/tT4xw3nO1Yg
