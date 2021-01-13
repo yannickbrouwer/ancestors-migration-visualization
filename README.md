@@ -7,12 +7,12 @@ https://youtu.be/tT4xw3nO1Yg
 For more details about the process have a look here:
 https://ybrouwer.medium.com/visualizing-my-ancestry-on-a-map-7af6a2354db0
 
-# Steps
+# Getting started
 1. Download Processing 3 from https://processing.org/ and install it
 2. Download my code
 3. Find Unfolding.zip, it's the mapping library I used. Make sure you use the version I supplied, it's the beta which works with Processing 3. Others will not work.
 4. Place the unzipped folder 'Unfolding' in the 'libraries' folder of Processing. You can find the folder by opening Processing and going to File->Preferences.
-Open the path you find under 'Sketchbook location' in Windows Explorer or Finder and browse to the folder libraries within that folder. Paste the Unfolding folder here.
+Open the path you find under 'Sketchbook location' in Windows Explorer or Finder and browse to the folder libraries within that folder. Paste the Unfolding folder there.
 5. Restart Processing and open my sketch ancestor_map_animation_final.pde
 6. Click on the play icon to run the cod. You should see the basemap with dots on it moving randomly.
 7. It's time to enter your own data, have a look at the Medium article above and the file ancestors_randomized.csv in the data folder to see how it should be structured. 
