@@ -16,7 +16,7 @@ Open the path you find under 'Sketchbook location' in Windows Explorer or Finder
 5. Restart Processing and go to Sketch->Import library. Unfolding Maps should be underneath Contributed.
 6. Open my sketch ancestor_map_animation_final.pde. Click on the play icon to run the code. You should see the basemap with dots on it moving randomly.
 7. It's time to enter your own data, have a look at the Medium article above and the file ancestors_randomized.csv in the data folder to see how it should be structured. 
-8. You can edit the data in Google Sheets. You can use the free plug-in Geocode by Awesome Tables in Google Sheets to convert city names to latitude and longitude. Replace the file ancestors_randomized.csv in the data folder with your own csv to see how it runs as animation. (keep a copy of the original file as reference)
+8. You can edit the data in Google Sheets. You can use the free plug-in Geocode by Awesome Tables (https://workspace.google.com/marketplace/app/geocode_by_awesome_table/904124517349) in Google Sheets to convert city names to latitude and longitude. Replace the file ancestors_randomized.csv in the data folder with your own csv to see how it runs as animation. (keep a copy of the original file as reference)
 9. Check the comments in my code to see how you can change the keyframes of the animation.
 10. If you're happy with your animation it's time to export your movie. Change the line 'boolean recording = false;' to 'boolean recording = true;' and run the code in presentation mode (Sketch->Present). 
 11. The animation will run very slowly (can take minutes or even hours to finish) and save every frame as a png within the folder from which you ran the code.
