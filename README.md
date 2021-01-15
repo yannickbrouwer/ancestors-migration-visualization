@@ -10,7 +10,7 @@ https://yannickbrouwer.medium.com/visualizing-my-ancestry-on-a-map-7af6a2354db0
 # Getting started
 1. Download the latest version of Processing 3 from https://processing.org/ and install it.
 2. Download my code, you can fork it but can also click the green 'Code' button and then choose Download ZIP.
-3. Find Unfolding.zip, it's the mapping library I used. Make sure you use the 0.9.9beta version I supplied, it's the beta which works with Processing 3. Others from the official site or the Processing library manager will not work.
+3. Unzip Unfolding.zip, it's the mapping library I used. Make sure you use the 0.9.9beta version I supplied here on Github, it's the beta which works with Processing 3. Others from the official Unfolding Maps site or the one found through the Processing library manager will not work.
 4. Place the unzipped folder 'Unfolding' in the 'libraries' folder of Processing. You can find the folder by opening Processing and going to File->Preferences.
 Open the path you find under 'Sketchbook location' in Windows Explorer or Finder and browse to the folder 'libraries' within that folder. If the folder is not there you can create it (use all lowercase). Paste the Unfolding folder within the folder 'libraries' (without the apostrophes).
 5. Restart Processing and go to Sketch->Import library. Unfolding Maps should be underneath Contributed.
